@@ -100,9 +100,9 @@ Create interactive dashboards and visualizations for better decision-making.
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-linkedin
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/ayush7610/first-website
+* LinkedIn: www.linkedin.com/in/ayush-gupta-817ab4380
+* Email: [ayushgupta7610@gmail.com](mailto:ayushgupta7610@gmail.com)
 
 ---
 
